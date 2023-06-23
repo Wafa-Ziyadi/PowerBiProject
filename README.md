@@ -1,4 +1,4 @@
-# MTT CoHack Challenge : Power BI
+#Challenge : Power BI
 
 ## Introduction
 
